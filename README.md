@@ -3,6 +3,8 @@
 - Kali Linux UserLand With GUI
 ____
 
+# It Required at least 8GB Free Space on Phone
+
 # First Download:
 
 <a href="https://f-droid.org/repo/tech.ula_2927098.apk">UserLand</a>
