@@ -15,11 +15,13 @@ sleep 1
 echo " "
 echo " "
 #Get the necessary components
-apt-get update
-apt-get install xfce4 xfce4-terminal tightvncserver dbus-x11 -y
-apt-get install xfe -y
-apt-get kali-themes
-apt-get clean
+sudo apt-get update
+sudo apt-get full-upgrade -y
+sudo apt-get install xfce4 xfce4-terminal tightvncserver dbus-x11 -y
+sudo apt-get install xfe -y
+sudo apt-get kali-themes
+sudo apt-get install -y kali-linux-default
+sudo apt-get clean
 
 #Install Brave Browser
 sudo apt install curl
