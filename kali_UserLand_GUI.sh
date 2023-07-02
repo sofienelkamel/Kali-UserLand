@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 1
+sleep 2
 
 echo -e "\e[93mKali Linux UserLand GUI Setup\e[0m"
 echo " "
