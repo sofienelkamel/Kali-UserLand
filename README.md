@@ -31,7 +31,7 @@ ___
 
 ___
 
-- # Connect And Disconnect GUI Commands
+# Connect And Disconnect GUI Commands
 
 - Connect: ```vncserver-start```
 
@@ -39,6 +39,6 @@ ___
 
 ____
 
-- # Contact US
+# Contact US
 
 - <a href="https://linktr.ee/mrx7014">Linktree</a>
