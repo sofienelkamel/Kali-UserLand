@@ -3,7 +3,7 @@
 - Kali Linux UserLand With GUI
 ____
 
-# It Required at least 8GB Free Space on Phone
+# It Required at least 5 or 6 GB Free Space on Phone
 
 # First Download:
 
