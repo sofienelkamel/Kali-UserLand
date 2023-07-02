@@ -6,7 +6,9 @@ ____
 # First Download:
 
 <a href="https://f-droid.org/repo/tech.ula_2927098.apk">UserLand</a>
+<div>
 <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC Viewer</a>
+</div>
 
 ____
 
